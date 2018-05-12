@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Daniel_Defoe
     - http://www.gutenberg.org/browse/authors/j#a26500
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14065#The-History-of-the-Remarkable-Life-of-John-Sheppard--13-Containing-a-Particular-Account-of-Hi_
 gutenberg_bookshelf: Crime Nonfiction
 gutenberg_issued: '2004-11-16'
 gutenberg_type: Text
