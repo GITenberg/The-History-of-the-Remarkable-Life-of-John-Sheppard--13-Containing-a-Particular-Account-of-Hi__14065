@@ -1,0 +1,34 @@
+_repo: The-History-of-the-Remarkable-Life-of-John-Sheppard--13-Containing-a-Particular-Account-of-Hi__14065
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Defo, Daniel
+    - Moreton, Andrew
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+    - http://www.gutenberg.org/browse/authors/j#a26500
+description: ''
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '2004-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14065'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sheppard, Jack, 1702-1724'
+- !lcc 'PR'
+title: "The History of the Remarkable Life of John Sheppard\r\nContaining a Particular\
+  \ Account of His Many Robberies and Escapes"
+url: http://www.gutenberg.org/ebooks/14065
